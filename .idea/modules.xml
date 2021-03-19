@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/../BlackCommands/.idea/BlackCommands.iml" filepath="$PROJECT_DIR$/../BlackCommands/.idea/BlackCommands.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/BlackPerms.iml" filepath="$PROJECT_DIR$/.idea/BlackPerms.iml" />
-    </modules>
-  </component>
-</project>
